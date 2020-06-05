@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "D:\tool\nginx-static\html\document\定时更新.bat",0
